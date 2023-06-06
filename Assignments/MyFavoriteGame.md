@@ -7,10 +7,10 @@ The aim of this game is to defeat enemies and bosses along the way, collect new 
 
 Released on February 25th, 2022
 
-**Company**
+**Company:**
 [FromSoftware](https://www.fromsoftware.jp/ww/)
 
-**Game engine**
+**Game engine:**
 Custom game engine.
 
 **Gameplay Image**
