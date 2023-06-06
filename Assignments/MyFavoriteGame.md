@@ -1,9 +1,11 @@
 # My favourite game: Elden Ring
 
 **What it is:**
-Elden ring is a RPG fantasy game developed by FromSoftware, who is best known for their "souls-like" series of games. The player, knonw as a "Tarnished", is sent into this vast, open world filled with lush forests, mountainous areas, snowy peaks, and more. 
+Elden ring is a RPG fantasy game developed by FromSoftware, who is best known for their "souls-like" series of games. The player, known as a "Tarnished", is sent into this vast, open world filled with lush forests, mountainous areas, snowy peaks, and more. 
 
 The aim of this game is to defeat enemies and bosses along the way, collect new equipment, and level up your character to progress along the storyline. The end goal is to kill the final boss and obtain the "Elden Ring", a supreme artifact that holds immense power that is capable of influencing the entire world (Lands Between).
+
+Released on February 25th, 2022
 
 **Company**
 [FromSoftware](https://www.fromsoftware.jp/ww/)
