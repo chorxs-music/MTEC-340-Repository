@@ -1,6 +1,6 @@
 # My favourite game: Elden Ring
 
-**What it is**
+**What it is:**
 Elden ring is a RPG fantasy game developed by FromSoftware, who is best known for their "souls-like" series of games. The player, knonw as a "Tarnished", is sent into this vast, open world filled with lush forests, mountainous areas, snowy peaks, and more. 
 
 The aim of this game is to defeat enemies and bosses along the way, collect new equipment, and level up your character to progress along the storyline. The end goal is to kill the final boss and obtain the "Elden Ring", a supreme artifact that holds immense power that is capable of influencing the entire world (Lands Between).
@@ -12,7 +12,7 @@ The aim of this game is to defeat enemies and bosses along the way, collect new 
 Custom game engine.
 
 **Gameplay Image**
-![Gameplay image](Github/MTEC-340-Repository/eldenring-1.jpg)
+![Gameplay image](../eldenring-1.jpg)
 
 **Similar Games**
 1. [Dark Souls I, II, and III](https://www.fromsoftware.jp/ww/)
