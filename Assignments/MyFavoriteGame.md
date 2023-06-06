@@ -12,7 +12,7 @@ The aim of this game is to defeat enemies and bosses along the way, collect new 
 Custom game engine.
 
 **Gameplay Image**
-![Gameplay image](/Volumes/Samsung_T5/Github/MTEC-340-Repository/eldenring-1.jpg)
+![Gameplay image](Github/MTEC-340-Repository/eldenring-1.jpg)
 
 **Similar Games**
 1. [Dark Souls I, II, and III](https://www.fromsoftware.jp/ww/)
