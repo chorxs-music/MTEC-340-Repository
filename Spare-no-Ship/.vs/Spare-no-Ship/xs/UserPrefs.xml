@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{83CC246D-4E4D-6BFB-9E01-668F1699BC5D}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8976f78-2286-4c9c-b0d7-64f5d965ebac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShipBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BulletAudio.cs" />
+      <File FileName="Assets/Scripts/ShipBehaviour.cs" Line="105" Column="45" />
+      <File FileName="Assets/Scripts/GameBehaviour.cs" Line="76" Column="44" />
+      <File FileName="Assets/Scripts/Powerups.cs" />
+      <File FileName="Assets/Scripts/PowerupCollide.cs" />
+      <File FileName="Assets/Scripts/BulletBehaviour.cs" Line="52" Column="10" />
+      <File FileName="Assets/Scripts/EnemyBulletBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gamestates.cs" />
+      <File FileName="Assets/Scripts/ScoutBehaviour.cs" Line="23" Column="19" />
+      <File FileName="Assets/Scripts/DestroyerBehaviour.cs" />
+      <File FileName="Assets/Scripts/Buttons/ButtonHome.cs" />
+      <File FileName="Assets/Scripts/Buttons/ButtonPlay.cs" />
+      <File FileName="Assets/Scripts/Buttons/ButtonTutorial.cs" />
+      <File FileName="Assets/Scripts/TitleAudio.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spare-no-Ship" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Buttons" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
