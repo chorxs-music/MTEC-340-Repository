@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{89797607-18C9-C8CA-542F-081807E0E06F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerBehaviour.cs" Line="114" Column="10" />
+      <File FileName="Assets/Scripts/GameStates.cs" Line="12" Column="16" />
+      <File FileName="Assets/Scripts/GameBehaviour.cs" Line="31" Column="13" />
+      <File FileName="Assets/Scripts/PlayerShoot.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scripts/EnemyBehaviour.cs" Line="22" Column="44" />
+      <File FileName="Assets/Scripts/BulletBehavior.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/EnemySpawn.cs" Line="20" Column="50" />
+      <File FileName="Assets/Scripts/KingScript.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/SpeedBoost.cs" Line="37" Column="10" />
+      <File FileName="Assets/Scripts/SpeedBoost.cs" Line="25" Column="56" />
+      <File FileName="Assets/Scripts/PlayerSpawn.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/LoadGameplay.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="King's Dilemma" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e4609e16-501d-4cf5-b245-c405007b382d" />
+</Properties>
